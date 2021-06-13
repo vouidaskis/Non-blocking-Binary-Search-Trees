@@ -1,0 +1,2 @@
+trial,n_thread,time,threadops,max_key,first_key_sum_leaf,key_sum_leaf,key_sum_counter,find_probability,delete_probability,insert_probability,sum_insert_true,sum_insert_false,sum_find_true,sum_find_false,sum_delete_true, sum_delete_false, throughput
+1,1,1.000537,657040,10000,25185467,5990,30172101,0.00,0.20,0.30,79539,117327,196330,132407,78604,52833,0.200000
